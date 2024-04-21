@@ -50,4 +50,4 @@ Firstly the page is all about clicking on the create bill then it redirects to t
 
 ![CSV File](6.png)
 
-![The PDF](4.png)
+![The PDF](7.png)
